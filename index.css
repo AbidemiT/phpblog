@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+.container { 
+    width: 500px;
+    margin: 0 auto;
+}
+.well {
+    background-color: #38ce59;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
